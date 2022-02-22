@@ -1,0 +1,10 @@
+.middleSection {
+  background: url('http://courses.ics.hawaii.edu/ics314f20/morea/ui-frameworks/murphys-front.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 500px;
+}
+
+.bottomSection{
+  background-color:#004030;
+  height: 200px;
+}
